@@ -1,0 +1,8 @@
+E:\điều khiển và ghép nối thiết bị ngoại vi\TH2\TH2\bin\Debug\TH2.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\TH2\TH2\bin\Debug\TH2.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\TH2\TH2\obj\x86\Debug\TH2.Form1.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\TH2\TH2\obj\x86\Debug\TH2.Properties.Resources.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\TH2\TH2\obj\x86\Debug\TH2.csproj.GenerateResource.Cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\TH2\TH2\obj\x86\Debug\TH2.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\TH2\TH2\obj\x86\Debug\TH2.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\TH2\TH2\obj\x86\Debug\TH2.csprojResolveAssemblyReference.cache

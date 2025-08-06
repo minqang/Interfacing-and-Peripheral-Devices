@@ -1,0 +1,7 @@
+E:\điều khiển và ghép nối thiết bị ngoại vi\TCPprotocol\TCPprotocol\bin\Debug\TCPprotocol.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\TCPprotocol\TCPprotocol\bin\Debug\TCPprotocol.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\TCPprotocol\TCPprotocol\obj\x86\Debug\TCPprotocol.Form1.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\TCPprotocol\TCPprotocol\obj\x86\Debug\TCPprotocol.Properties.Resources.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\TCPprotocol\TCPprotocol\obj\x86\Debug\TCPprotocol.csproj.GenerateResource.Cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\TCPprotocol\TCPprotocol\obj\x86\Debug\TCPprotocol.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\TCPprotocol\TCPprotocol\obj\x86\Debug\TCPprotocol.pdb
