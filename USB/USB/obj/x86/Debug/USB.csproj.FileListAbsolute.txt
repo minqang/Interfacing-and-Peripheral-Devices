@@ -1,0 +1,9 @@
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\bin\Debug\USB.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\bin\Debug\USB.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\obj\x86\Debug\USB.Properties.Resources.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\obj\x86\Debug\USB.csproj.GenerateResource.Cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\obj\x86\Debug\USB.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\obj\x86\Debug\USB.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\obj\x86\Debug\USB.csprojResolveAssemblyReference.cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\obj\x86\Debug\USB.Form1.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\USB\USB\bin\Debug\HIDLib.dll

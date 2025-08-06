@@ -1,0 +1,9 @@
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\bin\Debug\USBdieukhien.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\bin\Debug\USBdieukhien.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\bin\Debug\HIDLib.dll
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\obj\x86\Debug\USBdieukhien.csprojResolveAssemblyReference.cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\obj\x86\Debug\USBdieukhien.Form1.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\obj\x86\Debug\USBdieukhien.Properties.Resources.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\obj\x86\Debug\USBdieukhien.csproj.GenerateResource.Cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\obj\x86\Debug\USBdieukhien.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\USBdieukhien\USBdieukhien\obj\x86\Debug\USBdieukhien.pdb
