@@ -1,0 +1,10 @@
+E:\điều khiển và ghép nối thiết bị ngoại vi\Dieukhien\DieuKhien\DieuKhien\bin\Debug\DieuKhien.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\Dieukhien\DieuKhien\DieuKhien\bin\Debug\DieuKhien.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\Dieukhien\DieuKhien\DieuKhien\obj\x86\Debug\DieuKhien.Properties.Resources.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\Dieukhien\DieuKhien\DieuKhien\obj\x86\Debug\DieuKhien.csproj.GenerateResource.Cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\Dieukhien\DieuKhien\DieuKhien\obj\x86\Debug\DieuKhien.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\Dieukhien\DieuKhien\DieuKhien\obj\x86\Debug\DieuKhien.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\Dieukhien\DieuKhien\DieuKhien\obj\x86\Debug\DieuKhien.csprojResolveAssemblyReference.cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\Dieukhien\DieuKhien\DieuKhien\obj\x86\Debug\DieuKhien.abc.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\COMtonghop\DieuKhien\DieuKhien\obj\x86\Debug\DieuKhien.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\COMtonghop\DieuKhien\DieuKhien\obj\x86\Debug\DieuKhien.pdb

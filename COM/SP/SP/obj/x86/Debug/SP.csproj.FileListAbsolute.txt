@@ -1,0 +1,8 @@
+E:\điều khiển và ghép nối thiết bị ngoại vi\COM\SP\SP\bin\Debug\SP.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\COM\SP\SP\bin\Debug\SP.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\COM\SP\SP\obj\x86\Debug\SP.Form1.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\COM\SP\SP\obj\x86\Debug\SP.Properties.Resources.resources
+E:\điều khiển và ghép nối thiết bị ngoại vi\COM\SP\SP\obj\x86\Debug\SP.csproj.GenerateResource.Cache
+E:\điều khiển và ghép nối thiết bị ngoại vi\COM\SP\SP\obj\x86\Debug\SP.exe
+E:\điều khiển và ghép nối thiết bị ngoại vi\COM\SP\SP\obj\x86\Debug\SP.pdb
+E:\điều khiển và ghép nối thiết bị ngoại vi\COM\SP\SP\obj\x86\Debug\SP.csprojResolveAssemblyReference.cache
